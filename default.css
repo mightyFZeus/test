@@ -1,0 +1,51 @@
+.container{
+	margin-top: 20px;
+	background-image: url(images/pattern-curve.svg);
+	background-position: 0% 100%;
+	background-repeat: no-repeat;
+
+}
+
+:root {
+	--Dark-Blue: hsl(240, 38%, 20%)
+	
+	--gray-blue: hsl(240, 18%, 77%);
+}
+#pattern-image{
+	background-image: url(images/pattern-quotes.svg);
+	background-repeat: no-repeat;
+	background-position: 35% 15%;
+}
+
+
+p{
+	margin-top: 150px;
+	font-size: 20px;
+	margin-bottom: 38px
+
+}
+
+body{
+	font-family: "inter", sans-serif;
+
+}
+.btn{
+	border-radius: 10px;
+
+}
+
+.name{
+	font-weight: bold;
+	font-size: 20px;
+
+}
+#pattern-bg{
+	background-image: url(images/pattern-bg.svg);
+	background-repeat: no-repeat;
+	background-position: -90px;
+	
+}
+
+.job{
+	color: #DEDDE6;
+}
